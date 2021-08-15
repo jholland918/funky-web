@@ -1,0 +1,5 @@
+STORAGE: NONE
+RESTRICTION: || (== net5.0) (== netstandard2.0) (== netstandard2.1)
+GIT
+  remote: https://github.com/jholland918/funky-lib.git
+     (278b93d8beef14a8c3950c35757940ed8e4e399d)
